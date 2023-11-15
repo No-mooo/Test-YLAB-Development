@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Test-YLAB-Development/static/css/main.f855e6bc.css",
-    "main.js": "/Test-YLAB-Development/static/js/main.e6fb87bc.js",
+    "main.js": "/Test-YLAB-Development/static/js/main.764b42ba.js",
     "static/js/787.b78cf847.chunk.js": "/Test-YLAB-Development/static/js/787.b78cf847.chunk.js",
     "static/media/logo.svg": "/Test-YLAB-Development/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Test-YLAB-Development/index.html",
     "main.f855e6bc.css.map": "/Test-YLAB-Development/static/css/main.f855e6bc.css.map",
-    "main.e6fb87bc.js.map": "/Test-YLAB-Development/static/js/main.e6fb87bc.js.map",
+    "main.764b42ba.js.map": "/Test-YLAB-Development/static/js/main.764b42ba.js.map",
     "787.b78cf847.chunk.js.map": "/Test-YLAB-Development/static/js/787.b78cf847.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e6fb87bc.js"
+    "static/js/main.764b42ba.js"
   ]
 }
