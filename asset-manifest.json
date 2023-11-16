@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Test-YLAB-Development/static/css/main.f855e6bc.css",
-    "main.js": "/Test-YLAB-Development/static/js/main.2ca052e2.js",
+    "main.css": "/Test-YLAB-Development/static/css/main.57aa4ce1.css",
+    "main.js": "/Test-YLAB-Development/static/js/main.84dda42a.js",
     "static/js/787.b78cf847.chunk.js": "/Test-YLAB-Development/static/js/787.b78cf847.chunk.js",
-    "static/media/logo.svg": "/Test-YLAB-Development/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/axios.cjs": "/Test-YLAB-Development/static/media/axios.f73c6a014bbc8a882637.cjs",
     "index.html": "/Test-YLAB-Development/index.html",
-    "main.f855e6bc.css.map": "/Test-YLAB-Development/static/css/main.f855e6bc.css.map",
-    "main.2ca052e2.js.map": "/Test-YLAB-Development/static/js/main.2ca052e2.js.map",
+    "main.57aa4ce1.css.map": "/Test-YLAB-Development/static/css/main.57aa4ce1.css.map",
+    "main.84dda42a.js.map": "/Test-YLAB-Development/static/js/main.84dda42a.js.map",
     "787.b78cf847.chunk.js.map": "/Test-YLAB-Development/static/js/787.b78cf847.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.2ca052e2.js"
+    "static/css/main.57aa4ce1.css",
+    "static/js/main.84dda42a.js"
   ]
 }
